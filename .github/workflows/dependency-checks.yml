@@ -36,4 +36,3 @@ jobs:
         run: npm test -- --watchAll=false --runInBand
       - name: Production build
         run: npm run build
-
